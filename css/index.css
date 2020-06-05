@@ -99,6 +99,103 @@ p {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
+    
+}
+.box1{
+    width: 12.5%;
+    height: 100px;
+    background:blue;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box2{
+    width: 12.5%;
+    height: 100px;
+    background:green;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box3{
+    width: 12.5%;
+    height: 100px;
+    background:red;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box4{
+    width: 12.5%;
+    height: 100px;
+    background: purple;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box5{
+    width: 12.5%;
+    height: 100px;
+    background: aqua;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}.box6{
+    width: 12.5%;
+    height: 100px;
+    background: brown;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}.box7{
+    width: 12.5%;
+    height: 100px;
+    background: darkcyan;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}.box8{
+    width: 12.5%;
+    height: 100px;
+    background: hotpink;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}.box9{
+    width: 12.5%;
+    height: 100px;
+    background: pink;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}.box10{
+    width: 12.5%;
+    height: 100px;
+    background: darkorchid;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .middle-content .boxes .box {
@@ -144,3 +241,34 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+
+.top-img{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1.5%
+}
+.yes{
+display: flex;
+justify-content: center;
+margin-right: 38%;
+margin-bottom: 0%;
+margin-top: 2%
+}
+.links nav {
+    width: 30%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 14px;
+    color:black;
+    text-decoration: none;
+    margin-left: 43%;
+    margin-bottom: 1%;
+    margin-top: -1%;
+}
+.links nav a{
+    color:black;
+    text-decoration: none;
+}
+
